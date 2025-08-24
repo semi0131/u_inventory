@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83cb0ae7543b9a4b99131aaa6733230, type: 3}
+  m_Name: ChestEft
+  m_EditorClassIdentifier: 
+  itemToAdd:
+    itemType: 0
+    itemName: Potion
+    itemImage: {fileID: 21300000, guid: 4683e64797a364ad1adde74cc69b1ec9, type: 3}
+    efts:
+    - {fileID: 11400000, guid: af4b7bbad8ab36844bb7db30bdd39788, type: 2}
